@@ -1,0 +1,17 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-08-22 17:51:19 --> Could not find the language line "Chalan"
+ERROR - 2024-08-22 17:51:22 --> Could not find the language line "Chalan"
+ERROR - 2024-08-22 17:51:35 --> Could not find the language line "Chalan"
+ERROR - 2024-08-22 17:54:15 --> Could not find the language line "Chalan"
+ERROR - 2024-08-22 17:54:33 --> Could not find the language line "Chalan"
+ERROR - 2024-08-22 17:54:38 --> Could not find the language line "Chalan"
+ERROR - 2024-08-22 17:54:51 --> Could not find the language line "Chalan"
+ERROR - 2024-08-22 18:03:29 --> Could not find the language line "Chalan"
+ERROR - 2024-08-22 18:03:33 --> Could not find the language line "Chalan"
+ERROR - 2024-08-22 18:03:49 --> Could not find the language line "Chalan"
+ERROR - 2024-08-22 18:03:52 --> Could not find the language line "Chalan"
+ERROR - 2024-08-22 18:03:58 --> Could not find the language line "Chalan"
+ERROR - 2024-08-22 18:04:12 --> Could not find the language line "Chalan"
+ERROR - 2024-08-22 18:04:25 --> Could not find the language line "Chalan"
+ERROR - 2024-08-22 18:04:27 --> Could not find the language line "Chalan"

@@ -1,0 +1,70 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-09-07 10:47:47 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 10:47:57 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 10:51:25 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:22:19 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:22:24 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:22:50 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:25:07 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:25:15 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:25:25 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:26:30 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:26:33 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:33:59 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:34:03 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:34:18 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:34:39 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:41:13 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:42:00 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:46:02 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:47:10 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:51:11 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:51:20 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:51:45 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:51:52 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:53:47 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:54:00 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:54:01 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:54:33 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:54:38 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:54:57 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 11:55:03 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 13:14:55 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 13:22:35 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 13:22:38 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 13:22:47 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 18:01:54 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 18:02:07 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 18:02:24 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 18:14:23 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 18:14:57 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 18:15:14 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 18:15:30 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 12:49:10 --> 404 Page Not Found: Theme/plugins
+ERROR - 2024-09-07 18:19:27 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 18:19:30 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 18:19:39 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 18:19:47 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 18:20:05 --> Severity: error --> Exception: Call to undefined method Sales_model::return_row_with_data1() /home/u583567323/domains/sianceedu.com/public_html/jee/application/models/Sales_model.php 919
+ERROR - 2024-09-07 18:20:05 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/u583567323/domains/sianceedu.com/public_html/jee/application/models/Sales_model.php:1102) /home/u583567323/domains/sianceedu.com/public_html/jee/system/core/Common.php 570
+ERROR - 2024-09-07 18:20:11 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u583567323/domains/sianceedu.com/public_html/jee/application/models/Sales_model.php 362
+ERROR - 2024-09-07 18:20:11 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 18:20:11 --> Could not find the language line "shop_details"
+ERROR - 2024-09-07 18:20:11 --> Could not find the language line "from_wallet"
+ERROR - 2024-09-07 18:20:14 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 18:21:38 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/u583567323/domains/sianceedu.com/public_html/jee/application/models/Sales_model.php 362
+ERROR - 2024-09-07 18:21:38 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 18:21:38 --> Could not find the language line "shop_details"
+ERROR - 2024-09-07 18:21:38 --> Could not find the language line "from_wallet"
+ERROR - 2024-09-07 22:21:35 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 22:21:38 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 16:51:52 --> 404 Page Not Found: Theme/plugins
+ERROR - 2024-09-07 22:21:52 --> Severity: error --> Exception: Call to undefined method Sales_model::return_row_with_data1() /home/u583567323/domains/sianceedu.com/public_html/jee/application/models/Sales_model.php 919
+ERROR - 2024-09-07 22:21:52 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/u583567323/domains/sianceedu.com/public_html/jee/application/models/Sales_model.php:1098) /home/u583567323/domains/sianceedu.com/public_html/jee/system/core/Common.php 570
+ERROR - 2024-09-07 22:22:52 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 22:23:06 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 22:23:19 --> Could not find the language line "Chalan"
+ERROR - 2024-09-07 16:53:29 --> 404 Page Not Found: Theme/plugins
+ERROR - 2024-09-07 22:23:35 --> Severity: error --> Exception: Call to undefined method Sales_model::return_row_with_data1() /home/u583567323/domains/sianceedu.com/public_html/jee/application/models/Sales_model.php 919
+ERROR - 2024-09-07 22:23:35 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/u583567323/domains/sianceedu.com/public_html/jee/application/models/Sales_model.php:1098) /home/u583567323/domains/sianceedu.com/public_html/jee/system/core/Common.php 570
